@@ -1,0 +1,51 @@
+.bg-pourple {
+  background-color: #40026c;
+}
+
+.navbar {
+  height: 150px;
+}
+
+.container {
+  width: auto;
+  left: 50px;
+}
+
+span {
+  color: #fff;
+  font-size: 50px;
+}
+
+.card{
+    border: none;
+    background-color: #40026c;
+}
+
+.col{
+    background-color: #1e0132;
+    display: flex;
+}
+
+.card-body{
+    background-color: #40026c;
+    color: #fff;
+}
+
+
+.card-body, a, .btn-primary{
+    text-align: center;
+    
+}
+
+.btn-primary{
+    align-self: center;
+}
+
+.btn {
+  display: inline-block;
+  width: 120px;
+  padding: 5px;
+  margin: 20px;
+  background-color: #40026c;
+  color: #fff;
+}
